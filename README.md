@@ -13,7 +13,7 @@
 
 ### Tech I use
 <p>
-  <img src="https://skillicons.dev/icons?i=swift,ts,js,nodejs,python,react,html,css,git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=swift,ts,js,react,html,css,nodejs,python,rust,git,github," />
 </p>
 
 ---
