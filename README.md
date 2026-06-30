@@ -7,9 +7,10 @@
 
 
 ### <samp>About me</samp>
-- <samp>📱 I build and ship iOS apps, focusing on quality and smooth user experiences  </samp>
-- <samp>🎨 I’m especially into frontend work: UI, design systems, and polished interactions  </samp>
-- <samp>₿ I follow Bitcoin closely—technology, adoption, and the broader ecosystem</samp>
+
+- <samp>📱 Building native iOS apps since the beginning of the platform</samp>
+- <samp>⚛️ Strong passion for modern web development with React</samp>
+- <samp>🚀 Currently exploring and experimenting with React Native</samp>
 
 ### Tech I use
 <p>
