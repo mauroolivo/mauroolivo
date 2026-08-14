@@ -1,18 +1,16 @@
 <div align="center">
-# <samp>Mauro Olivo  </samp>
-<h2 color="#900000"><samp>Hi, I’m Mauro 👋</samp></h2>
-
-<p><samp>Senior Mobile Engineer with 20+ years of software engineering
-experience and deep expertise in iOS.</samp></p>
-
-I build production mobile applications with Swift, SwiftUI and UIKit,
-and I'm expanding my cross-platform work with React Native,
-TypeScript and Android.
-
-My experience includes fintech, Bitcoin, payments, IoT, Bluetooth,
-hardware integration and real-time systems.
-  
+<h2 color="#900000"><samp>Hi, I’m Mauro 👋</samp></h2>  
 </div>
+
+<samp>Senior Mobile Engineer with 20+ years of software engineering
+experience and deep expertise in iOS.</samp>
+
+<samp>I build production mobile applications with Swift, SwiftUI and UIKit,
+and I'm expanding my cross-platform work with React Native,
+TypeScript and Android.</samp>
+
+<samp>My experience includes fintech, Bitcoin, payments, IoT, Bluetooth,
+hardware integration and real-time systems.</samp>
 
 ### <samp> Mobile</samp>
 
