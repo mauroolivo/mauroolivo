@@ -2,8 +2,8 @@
 # <samp>Mauro Olivo  </samp>
 <h2 color="#900000"><samp>Hi, I’m Mauro 👋</samp></h2>
 
-Senior Mobile Engineer with 20+ years of software engineering
-experience and deep expertise in iOS.
+<p>Senior Mobile Engineer with 20+ years of software engineering
+experience and deep expertise in iOS.</p>
 
 I build production mobile applications with Swift, SwiftUI and UIKit,
 and I'm expanding my cross-platform work with React Native,
@@ -29,3 +29,8 @@ hardware integration and real-time systems.
 - <samp> ⚛️ Building cross-platform applications with React Native</samp>
 - <samp> 🧪 Testing, architecture and mobile CI/CD</samp>
 - <samp> 🦀 Exploring Rust and systems programming</samp>
+
+### Tech I use
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,ts,js,react,html,css,nodejs,python,rust,git,github," />
+</p>
