@@ -1,4 +1,6 @@
-# Hi, I'm Mauro 👋
+<div align="center">
+# <samp>Mauro Olivo  </samp>
+<h2 color="#900000"><samp>Hi, I’m Mauro 👋</samp></h2>
 
 Senior Mobile Engineer with 20+ years of software engineering
 experience and deep expertise in iOS.
@@ -9,6 +11,8 @@ TypeScript and Android.
 
 My experience includes fintech, Bitcoin, payments, IoT, Bluetooth,
 hardware integration and real-time systems.
+  
+</div>
 
 ### <samp> Mobile</samp>
 
