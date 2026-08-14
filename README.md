@@ -1,29 +1,27 @@
-<div align="center">
+# Hi, I'm Mauro 👋
 
-# <samp>Mauro Olivo  </samp>
-<h2 color="#900000"><samp>Hi, I’m Mauro 👋</samp></h2>
+Senior Mobile Engineer with 20+ years of software engineering
+experience and deep expertise in iOS.
 
-</div>
+I build production mobile applications with Swift, SwiftUI and UIKit,
+and I'm expanding my cross-platform work with React Native,
+TypeScript and Android.
 
+My experience includes fintech, Bitcoin, payments, IoT, Bluetooth,
+hardware integration and real-time systems.
 
-### <samp>About me</samp>
+## Mobile
 
-- <samp>📱 Building native iOS apps since the beginning of the platform</samp>
-- <samp>⚛️ Strong passion for modern web development with React</samp>
-- <samp>🚀 Currently exploring and experimenting with React Native</samp>
+- Swift · SwiftUI · UIKit
+- React Native · TypeScript
+- Android · Kotlin
+- BLE · IoT · Networking
+- XCTest · CI/CD
 
-### Tech I use
-<p>
-  <img src="https://skillicons.dev/icons?i=swift,ts,js,react,html,css,nodejs,python,rust,git,github," />
-</p>
+## What I'm working on
 
----
-
-### <samp>What I’m up to</samp>
-- <samp>🧱 Working on the Blockstream self-custody wallet experience  </samp>
-- <samp>⚛️ Shipping small React side projects and prototypes  </samp>
-- <samp>🤖 Exploring AI with hands-on experiments and tooling</samp>
-
-### <samp>Links</samp>
-- <samp>🧑‍💻 GitHub: https://github.com/mauroolivo</samp>
-- <samp>⭐ If you like something I built, a star is always appreciated</samp>
+- 📱 Mobile engineering across iOS and React Native
+- ₿ Contributing to Blockstream Green
+- ⚛️ Building cross-platform applications with React Native
+- 🧪 Testing, architecture and mobile CI/CD
+- 🦀 Exploring Rust and systems programming
