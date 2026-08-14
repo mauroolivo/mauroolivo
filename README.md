@@ -10,18 +10,18 @@ TypeScript and Android.
 My experience includes fintech, Bitcoin, payments, IoT, Bluetooth,
 hardware integration and real-time systems.
 
-## Mobile
+### <samp> Mobile</samp>
 
-- Swift · SwiftUI · UIKit
-- React Native · TypeScript
-- Android · Kotlin
-- BLE · IoT · Networking
-- XCTest · CI/CD
+- <samp> Swift · SwiftUI · UIKit</samp>
+- <samp> React Native · TypeScript</samp>
+- <samp> Android · Kotlin</samp>
+- <samp> BLE · IoT · Networking</samp>
+- <samp> XCTest · CI/CD</samp>
 
-## What I'm working on
+### <samp>What I'm working on</samp>
 
-- 📱 Mobile engineering across iOS and React Native
-- ₿ Contributing to Blockstream Green
-- ⚛️ Building cross-platform applications with React Native
-- 🧪 Testing, architecture and mobile CI/CD
-- 🦀 Exploring Rust and systems programming
+- <samp> 📱 Mobile engineering across iOS and React Native</samp>
+- <samp> ₿ Contributing to Blockstream Green</samp>
+- <samp> ⚛️ Building cross-platform applications with React Native</samp>
+- <samp> 🧪 Testing, architecture and mobile CI/CD</samp>
+- <samp> 🦀 Exploring Rust and systems programming</samp>
