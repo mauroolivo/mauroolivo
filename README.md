@@ -27,11 +27,11 @@ I work directly with product, design, and engineering teams, whether as an indep
 
 | Product                                                                                                        | My contribution                                                                                              |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| [**Blockstream Green**](https://github.com/Blockstream/green_ios) · Bitcoin wallet                             | iOS UI/UX, Lightning payment flows, Jade hardware-wallet integration, secure transaction signing.            |
+| [**Blockstream App**](https://github.com/Blockstream/green_ios) · Bitcoin wallet                               | Developed intuitive user interfaces and integrated libraries to extend core app functionality.               |
 | [**Moncler Official Store**](https://apps.apple.com/us/app/moncler-official-store/id1526276232) · E-commerce   | Led core iOS application logic, including authentication, catalogue, checkout, Apple Pay, and card payments. |
 | [**My Electrolux Care**](https://apps.apple.com/pl/app/my-electrolux-care/id1116118055) · Connected appliances | Wi-Fi provisioning, device pairing, MQTT communication, and automated testing for connected-device flows.    |
 | [**1Control**](https://apps.apple.com/it/app/1control/id1469181112) · Connected access                         | Owned iOS architecture and delivery, secure BLE integration, reusable SDK, and watchOS companion.            |
-| [**Pirelli DIABLO Super Biker**](https://apps.apple.com/it/app/diablo-super-biker/id451756374) · Sports        | UI/UX overhaul, MapKit and chart performance for GPS/motion data, and UIKit–SwiftUI integration.             |
+| [**Pirelli Super Biker**](https://apps.apple.com/it/app/diablo-super-biker/id451756374) · Sports               | UI/UX overhaul, MapKit and chart performance for GPS/motion data, and UIKit–SwiftUI integration.             |
 
 ## UI Matters — engineering in the open
 
