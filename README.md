@@ -8,7 +8,7 @@
 
 20+ years in software engineering · Based in Italy · Working with international teams
 
-[**UI Matters**](https://uimatters.io/) · [**LinkedIn**](https://www.linkedin.com/in/mauroolivo/) · [**Email**](mailto:olivomauro@gmail.com)
+[**UI Matters**](https://uimatters.io/) · [**LinkedIn**](https://www.linkedin.com/in/mauroolivo/)
 
 </div>
 
@@ -25,20 +25,21 @@ I work directly with product, design, and engineering teams, whether as an indep
 
 ## Selected production work
 
-| Product | My contribution |
-| --- | --- |
-| [**Blockstream Green**](https://github.com/Blockstream/green_ios) · Bitcoin wallet | iOS UI/UX, Lightning payment flows, Jade hardware-wallet integration, secure transaction signing. |
-| [**Moncler Official Store**](https://apps.apple.com/us/app/moncler-official-store/id1526276232) · E-commerce | Led core iOS application logic, including authentication, catalogue, checkout, Apple Pay, and card payments. |
-| [**My Electrolux Care**](https://apps.apple.com/pl/app/my-electrolux-care/id1116118055) · Connected appliances | Wi-Fi provisioning, device pairing, MQTT communication, and automated testing for connected-device flows. |
-| [**1Control**](https://apps.apple.com/it/app/1control/id1469181112) · Connected access | Owned iOS architecture and delivery, secure BLE integration, reusable SDK, and watchOS companion. |
-| [**Pirelli DIABLO Super Biker**](https://apps.apple.com/it/app/diablo-super-biker/id451756374) · Sports | UI/UX overhaul, MapKit and chart performance for GPS/motion data, and UIKit–SwiftUI integration. |
+| Product                                                                                                        | My contribution                                                                                              |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| [**Blockstream Green**](https://github.com/Blockstream/green_ios) · Bitcoin wallet                             | iOS UI/UX, Lightning payment flows, Jade hardware-wallet integration, secure transaction signing.            |
+| [**Moncler Official Store**](https://apps.apple.com/us/app/moncler-official-store/id1526276232) · E-commerce   | Led core iOS application logic, including authentication, catalogue, checkout, Apple Pay, and card payments. |
+| [**My Electrolux Care**](https://apps.apple.com/pl/app/my-electrolux-care/id1116118055) · Connected appliances | Wi-Fi provisioning, device pairing, MQTT communication, and automated testing for connected-device flows.    |
+| [**1Control**](https://apps.apple.com/it/app/1control/id1469181112) · Connected access                         | Owned iOS architecture and delivery, secure BLE integration, reusable SDK, and watchOS companion.            |
+| [**Pirelli DIABLO Super Biker**](https://apps.apple.com/it/app/diablo-super-biker/id451756374) · Sports        | UI/UX overhaul, MapKit and chart performance for GPS/motion data, and UIKit–SwiftUI integration.             |
 
 ## UI Matters — engineering in the open
 
 At [**uimatters.io**](https://uimatters.io/), I explore how to build **better Apple-platform interfaces** through practical technical articles, real code, and reproducible examples.
 
-- [**Async Image Pipeline**](https://uimatters.io/articles/async-image-pipeline) — image loading, architecture, and performance.
+- [**Modular architecture in iOS**](https://uimatters.io/articles/modular-architecture) - A practical look at module boundaries
 - [**Liquid Glass in SwiftUI**](https://uimatters.io/articles/liquid-glass-swiftui) — practical exploration of modern Apple interface design.
+- [**Async Image Pipeline**](https://uimatters.io/articles/async-image-pipeline) — image loading, architecture, and performance.
 
 The goal: connect interface craft with the engineering decisions that make a product maintainable and fast.
 
@@ -52,4 +53,4 @@ My core expertise is native iOS. I also work with **React Native, TypeScript, Re
 
 I'm an **Italy-based independent contractor**, available to collaborate remotely with international product and engineering teams on iOS development, modernization, complex integrations, and mobile architecture.
 
-**[Connect on LinkedIn](https://www.linkedin.com/in/mauroolivo/)** · **[Email me](mailto:olivomauro@gmail.com)** · **[Read UI Matters](https://uimatters.io/)**
+**[Connect on LinkedIn](https://www.linkedin.com/in/mauroolivo/)** · **[Read UI Matters](https://uimatters.io/)**
